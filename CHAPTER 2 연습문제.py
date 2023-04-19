@@ -112,3 +112,10 @@
 # print(bin(a), "&", bin(b), "=", bin(a & b))
 # print(bin(a), "|", bin(b), "=", bin(a | b))
 # print(bin(a), "^", bin(b), "=", bin(a ^ b))
+
+# 2.21
+# num = int(input("정수를 입력하시오 : "))
+# bin_num = bin(num)
+# not_bin_num = ~num
+# print(f"{num} 의 2진수 값 : {bin_num}")
+# print(f"{num} 의 2진수 값에 대한 비트단위 부정값 : {bin(not_bin_num)}")
