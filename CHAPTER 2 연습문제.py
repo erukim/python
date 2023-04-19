@@ -83,11 +83,13 @@
 # rotated_z = z * (0 + 1j)
 # print("회전하기 전 :", z)
 # print("90도 회전한 후 :", rotated_z)
-
-# 2.17
 # import cmath
 # coord = complex(1, 2)
 # print("회전하기 전 :", coord)
 # angle = cmath.pi / 6
 # rotated = coord * cmath.exp(angle * 1j)
 # print("30도 회전한 후 :", rotated)
+
+# 2.17
+# for i in range(10):
+#     print(2 << i, end=" ")
