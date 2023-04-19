@@ -70,3 +70,11 @@
 # for i in range(1, 11):
 #     sqrt_i = i ** 0.5
 #     print(f"{i}의 제곱근: {sqrt_i}")
+
+# 2.15
+# import math
+# a = int(input("밑변을 입력하세요: "))
+# b = int(input("높이를 입력하세요: "))
+# c = math.sqrt(a**2 + b**2)
+# print("빗변의 길이:", c)
+
