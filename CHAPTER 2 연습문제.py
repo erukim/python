@@ -14,3 +14,12 @@
 # print("사각형의 면적 :", area)
 
 # 2.4
+# width = 40
+# height = 20
+# area = width * height / 2
+# print("삼각형의 면적 :", int(area))
+
+# 2.5
+# base = int(input('정사각형의 밑변을 입력하시오 : '))
+# area = base ** 2
+# print('정사각형의 면적 :', area)
