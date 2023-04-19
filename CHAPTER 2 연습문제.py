@@ -106,3 +106,9 @@
 # else:
 #     print("입력된 정수는 0에서 100의 범위 안에 있는 짝수인가요? False")
 
+# 2.20
+# a = 5
+# b = 6
+# print(bin(a), "&", bin(b), "=", bin(a & b))
+# print(bin(a), "|", bin(b), "=", bin(a | b))
+# print(bin(a), "^", bin(b), "=", bin(a ^ b))
