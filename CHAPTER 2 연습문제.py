@@ -48,6 +48,15 @@
 # print(f'섭씨 {celsius} 도는 화씨 {fahrenheit} 도 입니다.')
 
 # 2.11
-fahrenheit = int(input("화씨 온도를 입력하세요: "))
-celsius = (fahrenheit - 32) * 5/9
-print("화씨", fahrenheit, '도는 섭씨', round(celsius,2), "도 입니다.")
+# fahrenheit = int(input("화씨 온도를 입력하세요: "))
+# celsius = (fahrenheit - 32) * 5/9
+# print("화씨", fahrenheit, '도는 섭씨', round(celsius,2), "도 입니다.")
+
+# 2.12
+# PI = 3.141592
+# radius = 11
+# circumference = 2 * PI * radius
+# area = PI * radius ** 2
+# print("원의 반지름 =", radius, ", 원의 둘레 =", circumference, ", 원의 면적 =", area)
+
+
