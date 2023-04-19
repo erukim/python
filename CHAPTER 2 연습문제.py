@@ -65,3 +65,8 @@
 # circumference = 2 * PI * radius
 # area = PI * radius ** 2
 # print("원의 둘레 = ", circumference, ", 원의 면적 = ", area)
+
+# 2.14
+# for i in range(1, 11):
+#     sqrt_i = i ** 0.5
+#     print(f"{i}의 제곱근: {sqrt_i}")
