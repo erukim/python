@@ -137,3 +137,7 @@
 # print(f"십의 자리: {tens}")
 # print(f"일의 자리: {ones}")
 
+# 2.24
+# num = input("세 자리 정수를 입력하세요 : ")
+# for i in range(len(num)-1, -1, -1):
+#     print(num[i])
