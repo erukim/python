@@ -41,3 +41,8 @@
 # for celsius in range(0, 51, 10):
 #     fahrenheit = (9/5) * celsius + 32
 #     print(f"{celsius}  {fahrenheit:.1f}")
+
+# 2.10
+# celsius = int(input('섭씨온도를 입력하세요 : '))
+# fahrenheit = (9/5) * celsius + 32
+# print(f'섭씨 {celsius} 도는 화씨 {fahrenheit} 도 입니다.')
