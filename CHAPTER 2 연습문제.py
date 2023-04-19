@@ -127,3 +127,13 @@
 # remainder = a % b
 # print("a / b의 몫 :", quotient)
 # print("a / b의 나머지 :", remainder)
+
+# 2.23
+# num = input("세 자리 정수를 입력하세요: ")
+# hundred = int(num[0])
+# tens = int(num[1])
+# ones = int(num[2])
+# print(f"백의 자리: {hundred}")
+# print(f"십의 자리: {tens}")
+# print(f"일의 자리: {ones}")
+
