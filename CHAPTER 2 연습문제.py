@@ -119,3 +119,11 @@
 # not_bin_num = ~num
 # print(f"{num} 의 2진수 값 : {bin_num}")
 # print(f"{num} 의 2진수 값에 대한 비트단위 부정값 : {bin(not_bin_num)}")
+
+# 2.22
+# a = int(input("정수 a를 입력하시오 : "))
+# b = int(input("정수 b를 입력하시오 : "))
+# quotient = a // b
+# remainder = a % b
+# print("a / b의 몫 :", quotient)
+# print("a / b의 나머지 :", remainder)
