@@ -78,3 +78,9 @@
 # c = math.sqrt(a**2 + b**2)
 # print("빗변의 길이:", c)
 
+# 2.16
+# z = 1 + 2j
+# rotated_z = z * (0 + 1j)
+# print("회전하기 전 :", z)
+# print("90도 회전한 후 :", rotated_z)
+
