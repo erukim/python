@@ -16,7 +16,13 @@
 # (15) True
 # (16) False
 
-
+# 3.2
+# name = input("이름을 입력하시오 : ")
+# height = int(input("키를 입력하시오(단위 cm) : "))
+# if height < 140:
+#     print(name, "님은 놀이기구를 탈 수 없습니다.")
+# else:
+#     print(name, "님은 놀이기구를 탈 수 있습니다.")
 
 # 3.3
 # age = int(input('나이를 입력하시오 : '))
