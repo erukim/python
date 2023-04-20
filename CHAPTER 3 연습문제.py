@@ -53,6 +53,37 @@
 #     big_num = num1
 # print(small_num, big_num)
 
+# 3.6
+# a, b, c = input("세 정수를 입력하시오 : ").split()
+# a = int(a)
+# b = int(b)
+# c = int(c)
+# if a <= b and a <= c:
+#     print(a, end=" ")
+#     if b <= c:
+#         print(b, c)
+#     else:
+#         print(c, b)
+# elif b <= a and b <= c:
+#     print(b, end=" ")
+#     if a <= c:
+#         print(a, c)
+#     else:
+#         print(c, a)
+# else:
+#     print(c, end=" ")
+#     if a <= b:
+#         print(a, b)
+#     else:
+#         print(b, a)
+
+# 3.7
+# score = int(input("게임점수를 입력하시오 : "))
+# if score >= 1000:
+#     print("고수입니다.")
+# else:
+#     print("입문자입니다.")
+
 # 3.8
 # x, y = input("점의 좌표 x, y를 입력하시오 : ").split()
 # x = int(x)
