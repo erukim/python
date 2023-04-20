@@ -42,7 +42,9 @@
 #     print("Kid")
 
 # 3.5
-# num1, num2 = map(int, input("두 정수를 입력하시오 : ").split())
+# numbers = input("두 정수를 입력하시오: ")
+# num1 = int(numbers[:numbers.find(' ')])
+# num2 = int(numbers[numbers.find(' ')+1:])
 # if num1 < num2:
 #     small_num = num1
 #     big_num = num2
@@ -52,7 +54,9 @@
 # print(small_num, big_num)
 
 # 3.8
-# x, y = map(int, input("점의 좌표 x, y를 입력하시오 : ").split())
+# x, y = input("점의 좌표 x, y를 입력하시오 : ").split()
+# x = int(x)
+# y = int(y)
 # if x > 0 and y > 0:
 #     print("1사분면에 있음")
 # elif x < 0 and y > 0:
