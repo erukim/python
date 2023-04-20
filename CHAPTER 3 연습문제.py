@@ -119,3 +119,35 @@
 #     print(f"{num}는(은) 2와(과) 3 모두로 나누어집니다.")
 # else:
 #     print(f"{num}는(은) 2와(과) 3 모두로 나누어지지 않습니다.")
+
+# 3.10
+# a, b = input("두 정수를 입력하시오 : ").split()
+# a = int(a)
+# b = int(b)
+# if a % b == 0:
+#     print(str(a) + "(은)는 " + str(b) + "의 배수입니다.")
+# else:
+#     print(str(a) + "(은)는 " + str(b) + "의 배수가 아닙니다.")
+
+# 3.11
+# numbers = input("세 복권번호를 입력하시오 : ").split()
+# if numbers[0] == '2' and numbers[1] == '3' and numbers[2] == '9':
+#     print("상금 1억 원")
+# elif numbers.count('2') + numbers.count('3') + numbers.count('9') == 2:
+#     print("상금 1천만 원")
+# elif numbers.count('2') + numbers.count('3') + numbers.count('9') == 1:
+#     print("상금 1만 원")
+# else:
+#     print("다음 기회에...")
+
+# 3.12
+# import math
+# x, y = input("점의 좌표 x, y를 입력하시오 : ").split()
+# x, y = int(x), int(y)
+# distance = math.sqrt(x**2 + y**2)
+# if distance <= 5:
+#     print("원의 내부에 있음")
+# else:
+#     print("원의 외부에 있음")
+
+# 3.13
