@@ -151,3 +151,17 @@
 #     print("원의 외부에 있음")
 
 # 3.13
+# x, y = input("점의 좌표 x, y를 입력하시오 : ").split()
+# x, y = int(x), int(y)
+# distance = ((x-3)**2 + (y-4)**2)**0.5
+# if distance <= 10:
+#     print("원의 내부에 있음")
+# else:
+#     print("원의 외부에 있음")
+
+# 3.14
+# char = input("알파벳을 입력하시오 : ")
+# if char in ['a', 'e', 'i', 'o', 'u']:
+#     print(char, "(은)는 모음입니다.")
+# else:
+#     print(char, "(은)는 자음입니다.")
