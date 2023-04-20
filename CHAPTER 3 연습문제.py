@@ -1,3 +1,23 @@
+# 3.1
+# (1) False
+# (2) False
+# (3) True
+# (4) True
+# (5) False
+# (6) True
+# (7) True
+# (8) False
+# (9) True
+# (10) True
+# (11) False
+# (12) True
+# (13) True
+# (14) True
+# (15) True
+# (16) False
+
+
+
 # 3.3
 # age = int(input('나이를 입력하시오 : '))
 # height = int(input('키를 입력하시오 : '))
